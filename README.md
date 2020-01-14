@@ -15,7 +15,7 @@ graph = [
 ```
 The transitive closure of this graph would be:
 ```
-1, 1, 1, 1]
+[1, 1, 1, 1]
 [0, 1, 1, 0]
 [0, 0, 1, 0]
 [0, 0, 0, 1]
